@@ -12,10 +12,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JamshidDev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=JamshidDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Visitors count
 
-[![](https://visitcount.itsvg.in/api?id=JamshidDev&label=Visitors%20count&pretty=false)](https://visitcount.itsvg.in)
+<img src="https://profile-counter.glitch.me/JamshidDev/count.svg" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
